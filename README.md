@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 20px;">
+<p align="center" style="font-size: 50px; font-weight: bold;">
 Mesh Convolution With Continuous Filters for 3-D Surface Parsing
 </p>
 
