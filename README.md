@@ -1,6 +1,5 @@
-<p align="center" style="font-size: 50px; font-weight: bold;">
-Mesh Convolution With Continuous Filters for 3-D Surface Parsing
-</p>
+# <center>Mesh Convolution With Continuous Filters for 3-D Surface Parsing</center>
+
 
 ![alt text](https://github.com/EnyaHermite/PicassoPlus/blob/main/image/teaser.png)
 
